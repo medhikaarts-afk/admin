@@ -1,0 +1,6 @@
+2026/05/24-17:13:37.727 374c Reusing MANIFEST D:\SALON PROJECT\Admin\running_admin-main - Copy\running_admin-main\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/24-17:13:37.732 374c Recovering log #3
+2026/05/24-17:13:37.895 374c Reusing old log D:\SALON PROJECT\Admin\running_admin-main - Copy\running_admin-main\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2026/05/24-17:14:37.912 431c Level-0 table #5: started
+2026/05/24-17:14:38.078 431c Level-0 table #5: 20165 bytes OK
+2026/05/24-17:14:38.290 431c Delete type=0 #3
